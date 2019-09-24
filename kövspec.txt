@@ -27,4 +27,7 @@ mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a
 6. Igényelt üzleti folyamatok modellje:(vágyálom rendszerben leírt dolgokat modellezzük)
 
 
-7. 
+7. Követelmény Lista:(szerepkörök kezdése, hova vannak leírva a követelmények)
+
+
+8. [Iráyított és szabad szöveges riportok]:()
