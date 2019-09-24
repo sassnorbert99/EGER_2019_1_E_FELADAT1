@@ -9,7 +9,8 @@ a túlzásba vitt játék aggresszióhoz, néha depresszióhoz vezethet.
 	A fiatalok, akik többségükben 7-8 évesen már játszanak videójátékon, az iskolában nem tudnak koncentrálni, romlik a teljesítésük, videójátékként kezelik a valóságot,
 valamint a fiatalok több, mint 65%-a játszik videójátékon, amibõl csaknem 37%-uk már függõként napi szinten akár több órát tölt el a számítógép elõtt. A statégiai, ügyességi játékok
 mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a fiatalok körében, mivel kihat rájuk a valóságban. 
-	A modern világ próbálja kizárni az oktató célú, ügyességi mini játékokat.
+	A modern világ próbálja kizárni az oktató célú, ügyességi mini játékokat. Játék fejlesztõk többsége is próbálja a játékokból kihagyni az ügyességi, valamint vetélkedõs, logikai
+részeket.
 
 2. Jelenlegi helyzet leírása:(üzleti környezet, pl. eddig volt valami, de nem volt jó..., valamin javítani kell, bármilyen hiba javítása)
 	
@@ -31,3 +32,6 @@ mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a
 
 
 8. [Iráyított és szabad szöveges riportok]:()
+
+
+9. fogalomszótár:(szaknyelvek, kifejezések, rövidítések...stb.)
