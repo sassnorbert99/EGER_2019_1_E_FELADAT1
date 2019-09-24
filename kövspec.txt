@@ -23,7 +23,7 @@ mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a
 	A modern világ próbálja kizárni az oktató célú, ügyességi mini játékokat. Játék fejlesztõk többsége is próbálja a játékokból kihagyni az ügyességi, valamint vetélkedõs, logikai
 részeket. A mi projektünkben szeretnénk egy játékot fejleszteni a fiatalok számára, mely fejlesztené a képességeiket, ezen felül ügyességeik-és memóriájuk is fejlõdne a játék által.
 
-2. Jelenlegi helyzet leírása:(üzleti környezet, pl. eddig volt valami, de nem volt jó..., valamin javítani kell, bármilyen hiba javítása)
+2. Jelenlegi helyzet leírása:(üzleti környezet)
 
 	Korábban elterjedt volt az olyan játékok, melyek az agy fejlesztésére fókuszálnak, különféle képességeket fejlesztenek akár egyszerre több fiatalnak is, azonban a kortárs*3 világunkban
 ezek a játékok avataggá*4 váltak. A korábbi ügyességi játékok elterjedése eleinte pozitív hatással volt a fiatalok körében, megjelenésük után nagy bevételre tettek szert a fejlesztõk.
@@ -52,12 +52,19 @@ pedig nem tudják a haszonállatok életmódját, tartását. Célunk, hogy egy program 
 nem csak a vidéki állatokat ismerjék meg, hanem a vadon élõ állatokat, melyek Magyarország egész területén nem található meg. Ezáltal nem csak a városi fiatalok körében terjedhet el a 
 csoportunk által létrehozott alkalmazás, hanem vidéken is, hiszen minden ifjú pontosabb képet tud majd alkotni a vadon élõ állatokról is.
 	A szoftverünk arra fog törekedni, hogy minél pontosabb, megbízhatóbb legyen a fogyasztók számára, a kliens ne érezze hibával elvétett terméknek, valamint érezze egyedi
-és oktató célú logikai ügyességi programnak.
-
-
+és oktató célú logikai ügyességi játéknak a szoftvert. A szoftver a kliens igényeit helyezi középpontba azáltal, hogy nehézségi szintet fog követni a rendszer, melyben elsõ szinteken a
+leggyakoribb, leg hétköznapibb állatok, utolsó szinteken pedig az Európában nem õshonos egzotikus állatok lesznek feltüntetve. A fiatalok körében fontos, hogy megismerjék az országban honos,
+illetve a Magyarországon tenyésztett állatokat, valamint az Európán kívüli állatfajokat. Ha arra törekedünk, hogy a modern informatikai világban fejlõdjenek a fiatalok, akkor ez a késõbbi
+életükre is kifog hatni. Jobban fognak majd teljesíteni iskolában, munkahelyen, illetve alkotni fognak egy pontosabb képet a világról, melyben felfedezik majd a videójátékon kívüli csodákat is.
+	Csoportunk tagjai kifejezetten figyelni fog minden részletre, mely jobbá és élvezetesebbé teszi majd a játékot. Elképzeléseink szerint a játék attól lesz majd hagyományos felépítésû,
+de mégis egyedi, hogy a címébõl adódóan nem lesznek más megbízások a kliens részére, csak a szoftverben fogalmazottak. Ezáltal egy letisztult egységes rendszert fogunk kínálni a fogyasztók
+számára, mely terjedelem szempontjából egy könnyen értelmezhetõ és minden megbízást megoldható szoftver lesz.
+	
 
 4.Feltételek:(rendszerre vonatkozó pályázat, törvények, rendeletek, szabályok és ajánlások, kikötések, mit hogy kell csinálni a rendszerben)
-
+	A szoftverünk a megrendelõ elvárásait és igényeit figyelembe véve, kiegészítve a csapatunk kreativitásával készül. A pályázat célja, hogy a fiatalok körében terjedjen el
+egy oktató-és logikai ügyességi játék, mely a hagyományos módszerekkel készüljön, de egyedi legyen azáltal, hogy játékos feladaival ne utasítsa vissza a kliens a szoftvert.
+	Az általános törvények a rendszerünkre is vonatkozik, 
 
 5. Jelenlegi üzleti fofyamatok modellje:(folyamatábra, ezután folyamat leírás, pl.milyen folyamatok lehetnek? pl. új autók a készletbe, beérkezik, leolvassuk, forgalmi ellenõrzés...stb.)
 
