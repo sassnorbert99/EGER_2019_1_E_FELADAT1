@@ -2,10 +2,21 @@ Követelmény specifikáció
 
 1. Bevezetés(Áttekintés, vezetõi összefoglaló):
 
-	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékoknak vannak elõnyei,
-valamint hátrányai. Elõnyként szolgál stratégiai játékoknál a képesség fejlesztés, verseny játékoknál pedig az ügyesség fejlesztése. A mai világban tökéletes kikapcsolódást jelent
-a számítógépek világa, tökéletes összhangot tud jelenti például egy cooperative videó játék. Azonban a videójátékoknak vannak hátrányai, túl sok játék függõséget okoz, valamint
-a túlzásba vitt játék aggresszióhoz, néha depresszióhoz vezethet.
+	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékok mára sok fiatal életének részét
+képezik, naponta lépnek be a virtuális valóság különféle tereibe. Ennek lehet elõnye és hátránya is, utóbbi sokszor a kisgyerekek viselkedésén látszik meg. Elõnyként szolgál stratégiai játékoknál
+a képesség fejlesztés, verseny játékoknál pedig az ügyesség fejlesztése.
+	Problémamegoldó képesség és logika: Amikor egy fiatal olyan játékokkal játszik, mint például az Angry Birds, vagy a Cut The Rope, arra készteti agyát, hogy kreatív módon 
+oldja meg a különféle fejtörõket rövid idõ alatt.
+	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter folyamatos
+mozgásban van, egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
+	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter folyamatos mozgásban van, 
+egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
+	Erõforrás menedzsment, logisztika és tervezés: A stratégiai játékokban erõforrásokból gazdálkodik a játékos, és úgy próbál átvészelni nehéz csatákat, ínséges idõket, hogy folyamatosan
+menedzseli a dolgokat.
+	A mai világban tökéletes kikapcsolódást jelent a számítógépek világa, tökéletes összhangot tud jelenti például egy cooperative videó játék. Azonban a videójátékoknak vannak hátrányai, 
+túl sok játék függõséget okoz, valamint a túlzásba vitt játék aggresszióhoz, néha depresszióhoz vezethet.
+	Pszichológusok, kivált gyermekpszichológusok nagyon is konkrétan tudnak arról beszélni, milyen hatással lehet az ifjakra a túl korán elkezdett és túlzásba vitt videójátékozás, és melyek 
+a veszélyes, illetve veszélytelen játékok.
 	A fiatalok, akik többségükben 7-8 évesen már játszanak videójátékon, az iskolában nem tudnak koncentrálni, romlik a teljesítésük, videójátékként kezelik a valóságot,
 valamint a fiatalok több, mint 65%-a játszik videójátékon, amibõl csaknem 37%-uk már függõként napi szinten akár több órát tölt el a számítógép elõtt. A statégiai, ügyességi játékok
 mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a fiatalok körében, mivel kihat rájuk a valóságban. 
