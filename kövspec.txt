@@ -51,6 +51,8 @@ nyaralni, vagy rokonságot látogatni, amibõl a maradék 65%-uk még nem látott vidé
 pedig nem tudják a haszonállatok életmódját, tartását. Célunk, hogy egy program segítségével új képet alkothassunk az állatokról a fiatalok körében, megtudják az egyes állatok nevét, illetve
 nem csak a vidéki állatokat ismerjék meg, hanem a vadon élõ állatokat, melyek Magyarország egész területén nem található meg. Ezáltal nem csak a városi fiatalok körében terjedhet el a 
 csoportunk által létrehozott alkalmazás, hanem vidéken is, hiszen minden ifjú pontosabb képet tud majd alkotni a vadon élõ állatokról is.
+	A szoftverünk arra fog törekedni, hogy minél pontosabb, megbízhatóbb legyen a fogyasztók számára, a kliens ne érezze hibával elvétett terméknek, valamint érezze egyedi
+és oktató célú logikai ügyességi programnak.
 
 
 
