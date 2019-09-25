@@ -79,7 +79,7 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
 
 
 5. Jelenlegi üzleti folyamatok modellje:(folyamatábra, ezután folyamat leírás, pl.milyen folyamatok lehetnek? pl. új autók a készletbe, beérkezik, leolvassuk, forgalmi ellenõrzés...stb.)
-	
+	*2.sz. melléklet
 
 6. Igényelt üzleti folyamatok modellje:(vágyálom rendszerben leírt dolgokat modellezzük)
 
