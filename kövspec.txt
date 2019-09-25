@@ -79,7 +79,14 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
 
 
 5. Jelenlegi üzleti folyamatok modellje:(folyamatábra, ezután folyamat leírás, pl.milyen folyamatok lehetnek? pl. új autók a készletbe, beérkezik, leolvassuk, forgalmi ellenõrzés...stb.)
-	*2.sz. melléklet
+
+
+	*2.sz. melléklet: Ahogy a 2. számú mellékleten látható, a szoftver készítése az igények felmerülése érdekében készül, melyben a kliensek különféle számítógépekkel tudnak majd a 
+szoftverre csatlakozni, melyben a megbízó igényeit figyelembe véve nem kell regisztrálni, majd azokat adatbázisban tárolni, hanem lokálisan*6 lesznek mentve a teljesített megbízások.
+A kliensek a szoftver szolgáltatásait igénybe véve egy letisztult felület tárul eléjük, valamint a hagyományos és megszokott -PixWorld, PicWorld- szoftver egyedi ötletekkel, igényeknek 
+megfelelõ eszközökkel tárul majd eléjük, mellyel élvezetesebbé válik a szolgáltatás.
+	A feladatok -máshol megbízások- nehézségi szintekre lesznek felosztva, mely a leggyakoribb, leghétköznapibb állatoktól egészen az Európában nem õshonos állatokig fog tartalmazni.
+Az AnimalWorld nevû logikai, ügyességi szoftver az egyszerûsített kezelõfelület, valamint az egyedi ötletek hatására nagyobb valószínûséggel fog több klienst invitálni*9.
 
 6. Igényelt üzleti folyamatok modellje:(vágyálom rendszerben leírt dolgokat modellezzük)
 
@@ -104,6 +111,7 @@ majd a késõbbiekben Android rendszereken és a DSiWare*1 kínálatában is elérhetõv
 	-*6 Slamisztika: probléma, dilemma, nehézség
 	-*7 Elvet: visszautasít, nem fogad el
 	-*8 rivalizál: mérkõzik, vetélkedik, verseng, versenyez, megmérkõzik, harcol, megküzd, harcba száll
+	-*9 invitál: meghív, elhív
 
 	szaknyelvek:
 
@@ -113,6 +121,7 @@ majd a késõbbiekben Android rendszereken és a DSiWare*1 kínálatában is elérhetõv
 Teszt környezet és teszt automatizálás, Modell alapú tesztelés *(1. melléklet)
 	-*4 Megbízás: itt.: adott játékban "szint" és/-vagy "pálya"
 	-*5 Klón: lemásolt, átírt programkódok
+	-*6 Lokális: helybeli, helyi
 
 	rövidítések:
 	-*1 ld: lásd
