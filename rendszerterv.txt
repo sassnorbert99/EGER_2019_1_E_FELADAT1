@@ -40,6 +40,14 @@ szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, 
 
 3. Üzleti folyamatok modellje:
 
+	Követelmények:
+ 		Funkcionális követelmények:
+ 		-Menü: - válaszon nehézségi szintet(könnyû, közepes, nehéz)
+
+ 		Nemfunkcionális követelmények: 
+ 		-A programnak egyszerûnek kell lennie , ezért a teljesítménye nem lehet nagy , viszonylag olcsóbb hardvereken 
+ 		is szépen kell futnia és ezáltal a  megbízhatósága is nagyobb lesz mivel nincs túlterhelve a rendszer.
+
 4. funkcionális leírás:
 
 5. Fizikai környezetek:
