@@ -1,7 +1,15 @@
-1. Rendszerterv:()
+Rendszerterv:
 	bevezetés(A rendszer célja)
 	projekt terv(definiálni a projekt szerepköreit, Ki miért felelõs, résztvevõk, ütemterv-mérföldkövek)
 	üzleti folyamatok modellje(kövspecben igényelt dolgok, saját ötleteinkkel, leírva úgy, hogy a mi rendszerünk eltudja készíteni, megszorítások alkalmazása)
 	[követelmények]
 	funkcionális leírás(szereplõk, használati esetek, menü, képernyõ)
 	Fizikai környezet(milyen adatbázis kezelõ rendszer, op rendszer, gép teljseítmény, keretrendszer...stb.)
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Rendszerterv:
