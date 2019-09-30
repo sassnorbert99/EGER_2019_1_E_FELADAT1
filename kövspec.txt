@@ -79,6 +79,13 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
 	-A PixWorld nevû mobilos applikáció kiváló ötletet nyújt a szoftver számára, melyet a 10M+ letöltése is tükröz.
 
 
+  Fontos a lokális helyesség:  - Teljesség
+                               - Ellentmondás-mentesség
+                               - Szigorú specifikációs nyelv
+                               – Ellenõrzött tervezési minták használata
+                               – Specifikáció ellenõrzése/verifikáció/
+
+
 5. Jelenlegi üzleti folyamatok modellje:
 
 
