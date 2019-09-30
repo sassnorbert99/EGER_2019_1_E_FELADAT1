@@ -1,0 +1,31 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.*?>
+
+
+<GridPane fx:controller="window.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="TOP_CENTER" hgap="10" vgap="10">
+
+    <ImageView fx:id="cow" layoutX="0" layoutY="0" fitHeight="720" fitWidth="1280" GridPane.rowIndex="0" GridPane.columnIndex="0" GridPane.columnSpan="3">
+
+            <Image url="@../resources/tehen.jpg"/>
+
+    </ImageView>
+
+    <fx:define>
+        <ToggleGroup fx:id="valaszok"/>
+    </fx:define>
+
+    <RadioButton fx:id="ans1" GridPane.rowIndex="1" GridPane.columnIndex="0" text="tehén" toggleGroup="$valaszok"/>
+    <RadioButton fx:id="ans2" GridPane.rowIndex="1" GridPane.columnIndex="1" text="ló" toggleGroup="$valaszok"/>
+    <RadioButton fx:id="ans3" GridPane.rowIndex="1" GridPane.columnIndex="2" text="kutya" toggleGroup="$valaszok"/>
+
+    <Button fx:id="ok" text="Ellenőriz" GridPane.rowIndex="2" onAction="#valaszEll"/>
+    <Label fx:id="test" text="válaszolj" GridPane.rowIndex="3" />
+</GridPane>
