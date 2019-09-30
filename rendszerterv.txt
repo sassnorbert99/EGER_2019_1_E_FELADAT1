@@ -1,10 +1,9 @@
 Rendszerterv:
-	bevezetés(A rendszer célja)
+	
 	projekt terv(definiálni a projekt szerepköreit, Ki miért felelõs, résztvevõk, ütemterv-mérföldkövek)
 	üzleti folyamatok modellje(kövspecben igényelt dolgok, saját ötleteinkkel, leírva úgy, hogy a mi rendszerünk eltudja készíteni, megszorítások alkalmazása)
 	[követelmények]
 	funkcionális leírás(szereplõk, használati esetek, menü, képernyõ)
-	Fizikai környezet(milyen adatbázis kezelõ rendszer, op rendszer, gép teljseítmény, keretrendszer...stb.)
 
 
 
@@ -13,3 +12,43 @@ Rendszerterv:
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Rendszerterv:
+
+1. Bevezetés: 
+	A rendszer célja a következõk:
+	- Elsõsorban a fiatalok(7-14 év) számára egy olyan ügyességi, logikai játékot fejlesszünk, mely hasonló az eddig megszokott nagybevételû játékokra,
+mégis eltér a fejlõdés és képesség fejlesztés szempontjából.
+	- Az alkalmazás célja továbbá, hogy megismertessük a fiatal generációval a vidéki, vadon élõ bel-és külföldön élõ õshonos állatfajokat, melyeket a mindennapi 
+életben nem látunk.
+	- A program fõ funkciója, hogy a kliensek a szoftver szolgáltatásait igénybe véve egy letisztult felület tárul eléjük, valamint a hagyományos és megszokott
+szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, mellyel élvezetesebbé válik a szolgáltatás.
+
+2. Projekt Terv:
+
+	Projekt szerepkörei:
+	- Csoport tagok: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint,Járomi Dávid
+	- Projekt vezetõ: Sass-Gyarmati Norbert
+	- Fejlesztõk: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint, Járomi Dávid
+	- Vezetõ fejlesztõ: Deák Ádám, Nagy Bálint
+	- Forrás adminisztrátor: Járomi Dávid, Sass-Gyarmati Norbert
+	- Teszter: Járomi Dávid, Deák Ádám
+	- Követelmény specifikáció: Sass-Gyarmati Norbert
+	- Funkcionális specifikáció: Sass-Gyarmati Norbert, Deák Ádám
+	- Rendszerterv: Deák Ádám, Járomi Dávid, Sass-Gyarmati Norbert, Nagy Bálint
+	- Illusztráció: Járomi Dávid
+
+	
+
+3. Üzleti folyamatok modellje:
+
+4. funkcionális leírás:
+
+5. Fizikai környezetek:
+	- támogatott operációs rendszer: multiplatform
+	- támogatott eszközök: PC, laptop
+	- nem támogatott eszközök: mobileszközök(mobil, pda, tablet)
+	- programozási nyelv: IntelliJ IDEA által támogatott Javafx
+	- adatbázis-kezelõ rendszerek: nincs
+	- tárhely: <1GB
+	- RAM: <500MB
+	- fejlesztõi környezet: Windows alapú hordozható számítógép
+	
