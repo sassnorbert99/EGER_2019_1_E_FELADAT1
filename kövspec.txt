@@ -1,5 +1,6 @@
 Követelmény specifikáció
 
+
 1. Bevezetés(Áttekintés, vezetõi összefoglaló):
 
 	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékok mára sok fiatal életének részét
