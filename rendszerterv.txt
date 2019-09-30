@@ -35,6 +35,7 @@ szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, 
 	- Funkcionális specifikáció: Sass-Gyarmati Norbert, Deák Ádám
 	- Rendszerterv: Deák Ádám, Járomi Dávid, Sass-Gyarmati Norbert, Nagy Bálint
 	- Illusztráció: Járomi Dávid
+	- Ütemterv: Az alkalmazásnak a hónap(2019.szeptember) végére kész kell lennie
 
 	
 
