@@ -1,15 +1,3 @@
-Rendszerterv:
-	
-	projekt terv(definiálni a projekt szerepköreit, Ki miért felelõs, résztvevõk, ütemterv-mérföldkövek)
-	üzleti folyamatok modellje(kövspecben igényelt dolgok, saját ötleteinkkel, leírva úgy, hogy a mi rendszerünk eltudja készíteni, megszorítások alkalmazása)
-	[követelmények]
-	funkcionális leírás(szereplõk, használati esetek, menü, képernyõ)
-
-
-
-
-
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Rendszerterv:
 
@@ -57,9 +45,8 @@ szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, 
 		-Az alkalmazásban nem jelenhetnek meg felnõtt tartalmak.
 		
 
-4. funkcionális leírás:
 
-5. Fizikai környezetek:
+4. Fizikai környezetek:
 	- támogatott operációs rendszer: multiplatform
 	- támogatott eszközök: PC, laptop
 	- nem támogatott eszközök: mobileszközök(mobil, pda, tablet)

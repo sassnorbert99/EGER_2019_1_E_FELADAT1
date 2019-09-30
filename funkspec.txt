@@ -1,23 +1,5 @@
 Funkcionális specifikáció:
-
-1. Jelenlegi helyzet:(melyik rendszert miért nem szeretnénk, mit miért teszünk)
-
-
-2. minden átjön, csak kiegészítve szakmai követemlényekkel, részletesebb leírásokkal.
-
-
-3.használati esetek:(mire tudja használni a gyerek, felnõtt, kisgyerek, stb..., funkcionális esetek)
-
-
-4.Képernyõ tervek:
-
-
-5.Forgatókönyvek:(rokon a használati esetekkel)
-
-
-6.Funkció/követelmény megfeleltetés:(milyen követelményeknek felelünk meg, mi az amiben csak részben, stb...)
-
-példa:///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Áttekintés
 
