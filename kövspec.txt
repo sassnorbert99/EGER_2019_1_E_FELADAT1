@@ -92,6 +92,16 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
                                                                   -technikai-
                                                                   -környezeti-
                                                                   kockázatokat is.
+ Szükséges, hogy megbízható legyen:   – Védelem a szisztematikus hibák ellen
+                                      – Az összes technikai és irányítási tevékenység meghatározása,
+                                        figyelése, ellenõrzése
+                                      - Szoftverek ellenõrzése, fejlesztési eszközök megfelelõsége
+                                      - Probléma bejelentés és javítás rögzítése:   – Dokumentáció és visszajelzések
+                                                                                    – Elemzések/okok azonosítása
+                                                                                    – Felderítés és megoldás módszerei, megelõzõ
+                                                                                      tevékenységek
+                                                                                    – Javítás ellenõrzése, ismételt igazolás
+                                                                                      és érvényesítés 
 
 
 5. Jelenlegi üzleti folyamatok modellje:
