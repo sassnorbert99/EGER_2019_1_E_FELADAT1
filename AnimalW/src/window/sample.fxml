@@ -11,21 +11,26 @@
 
 <GridPane fx:controller="window.Controller"
           xmlns:fx="http://javafx.com/fxml" alignment="TOP_CENTER" hgap="10" vgap="10">
+    <GridPane fx:id="difficulty"  alignment="CENTER" hgap="10" vgap="10" visible="true">
+        <Button fx:id="nehez" text="Nehéz" GridPane.rowIndex="2" onAction="#gameStart"/>
+        <Button fx:id="kozepes" text="Közepes" GridPane.rowIndex="1" onAction="#gameStart"/>
+        <Button fx:id="konnyu" text="Könnyű" GridPane.rowIndex="0" onAction="#gameStart"/>
+    </GridPane>
 
-    <ImageView fx:id="cow" layoutX="0" layoutY="0" fitHeight="720" fitWidth="1280" GridPane.rowIndex="0" GridPane.columnIndex="0" GridPane.columnSpan="3">
+    <GridPane fx:id="game" alignment="TOP_CENTER" hgap="10" vgap="10" visible="false">
 
-            <Image url="@../resources/tehen.jpg"/>
+        <ImageView fx:id="animalImageView" layoutX="0" layoutY="0" fitHeight="720" fitWidth="1280" GridPane.rowIndex="0"
+                   GridPane.columnIndex="0" GridPane.columnSpan="3"/>
 
-    </ImageView>
+        <fx:define>
+            <ToggleGroup fx:id="valaszok"/>
+        </fx:define>
 
-    <fx:define>
-        <ToggleGroup fx:id="valaszok"/>
-    </fx:define>
+        <RadioButton fx:id="ans1" GridPane.rowIndex="1" GridPane.columnIndex="0" text="tehén" toggleGroup="$valaszok"/>
+        <RadioButton fx:id="ans2" GridPane.rowIndex="1" GridPane.columnIndex="1" text="ló" toggleGroup="$valaszok"/>
+        <RadioButton fx:id="ans3" GridPane.rowIndex="1" GridPane.columnIndex="2" text="kutya" toggleGroup="$valaszok"/>
 
-    <RadioButton fx:id="ans1" GridPane.rowIndex="1" GridPane.columnIndex="0" text="tehén" toggleGroup="$valaszok"/>
-    <RadioButton fx:id="ans2" GridPane.rowIndex="1" GridPane.columnIndex="1" text="ló" toggleGroup="$valaszok"/>
-    <RadioButton fx:id="ans3" GridPane.rowIndex="1" GridPane.columnIndex="2" text="kutya" toggleGroup="$valaszok"/>
-
-    <Button fx:id="ok" text="Ellenőriz" GridPane.rowIndex="2" onAction="#valaszEll"/>
-    <Label fx:id="test" text="válaszolj" GridPane.rowIndex="3" />
+        <Button fx:id="ok" text="Ellenőriz" GridPane.rowIndex="2" onAction="#valaszEll"/>
+        <Label fx:id="test" text="válaszolj" GridPane.rowIndex="3" GridPane.columnSpan="3" />
+    </GridPane>
 </GridPane>

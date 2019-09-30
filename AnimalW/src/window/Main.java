@@ -23,6 +23,7 @@ public class Main extends Application {
         Scene scene = new Scene(root, 1500, 1000);
         primaryStage.setScene(scene);
 
+        //Image horse = new Image("/resources/horse.jpg");
         primaryStage.show();
 
 
