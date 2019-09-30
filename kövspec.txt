@@ -1,43 +1,46 @@
-											Követelmény specifikáció
+									Követelmény specifikáció
 
 
 1. Bevezetés(vezetõi összefoglaló):
 
-	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékok mára sok fiatal életének részét
-képezik, naponta lépnek be a virtuális valóság különféle tereibe. Ennek lehet elõnye és hátránya is, utóbbi sokszor a kisgyerekek viselkedésén látszik meg. Elõnyként szolgál stratégiai játékoknál
-a képesség fejlesztés, verseny játékoknál pedig az ügyesség fejlesztése.
-	Problémamegoldó képesség és logika: Amikor egy fiatal olyan játékokkal játszik, mint például az Angry Birds*1, vagy a Cut The Rope*2, arra készteti agyát, hogy kreatív módon 
-oldja meg a különféle fejtörõket rövid idõ alatt.
-	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter folyamatos
-mozgásban van, egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
-	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter folyamatos mozgásban van, 
-egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
-	Erõforrás menedzsment, logisztika és tervezés: A stratégiai játékokban erõforrásokból gazdálkodik a játékos, és úgy próbál átvészelni nehéz csatákat, ínséges idõket, hogy folyamatosan
-menedzseli a dolgokat.
-	A mai világban tökéletes kikapcsolódást jelent a számítógépek világa, tökéletes összhangot tud jelenti például egy cooperative videó játék. Azonban a videójátékoknak vannak hátrányai, 
-túl sok játék függõséget okoz, valamint a túlzásba vitt játék aggresszióhoz, néha depresszióhoz vezethet.
-	Pszichológusok, kivált gyermekpszichológusok nagyon is konkrétan tudnak arról beszélni, milyen hatással lehet az ifjakra a túl korán elkezdett és túlzásba vitt videójátékozás, és melyek 
-a veszélyes, illetve veszélytelen játékok.
-	A fiatalok, akik többségükben 7-8 évesen már játszanak videójátékon, az iskolában nem tudnak koncentrálni, romlik a teljesítésük, videójátékként kezelik a valóságot,
-valamint a fiatalok több, mint 65%-a játszik videójátékon, amibõl csaknem 37%-uk már függõként napi szinten akár több órát tölt el a számítógép elõtt. A statégiai, ügyességi játékok
-mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a fiatalok körében, mivel kihat rájuk a valóságban. 
-	A modern világ próbálja kizárni az oktató célú, ügyességi mini játékokat. Játék fejlesztõk többsége is próbálja a játékokból kihagyni az ügyességi, valamint vetélkedõs, logikai
-részeket. A mi projektünkben szeretnénk egy játékot fejleszteni a fiatalok számára, mely fejlesztené a képességeiket, ezen felül ügyességeik-és memóriájuk is fejlõdne a játék által.
+	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékok mára 
+sok fiatal életének részét képezik, naponta lépnek be a virtuális valóság különféle tereibe. Ennek lehet elõnye és hátránya is, utóbbi sokszor a kisgyerekek 
+viselkedésén látszik meg. Elõnyként szolgál stratégiai játékoknál a képesség fejlesztés, verseny játékoknál pedig az ügyesség fejlesztése.
+	Problémamegoldó képesség és logika: Amikor egy fiatal olyan játékokkal játszik, mint például az Angry Birds*1, vagy a Cut The Rope*2, arra készteti agyát, 
+hogy kreatív módon oldja meg a különféle fejtörõket rövid idõ alatt.
+	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter 
+folyamatos mozgásban van, egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
+	Kéz-szem koordináció, finommotorikus készségek: Lövöldözõs játékok közt is találunk gyerekbarát tartalmakat, ezek jellegzetessége pedig, hogy a karakter
+folyamatos mozgásban van, egyszerre kell figyelnie a fenyegetõ veszélyekre, céloznia, rejtõzködnie. A kutatások szerint eközben a térlátás is fejlõdik.
+	Erõforrás menedzsment, logisztika és tervezés: A stratégiai játékokban erõforrásokból gazdálkodik a játékos, és úgy próbál átvészelni nehéz csatákat,
+ínséges idõket, hogy folyamatosan menedzseli a dolgokat.
+	A mai világban tökéletes kikapcsolódást jelent a számítógépek világa, tökéletes összhangot tud jelenti például egy cooperative videó játék. Azonban a 
+videójátékoknak vannak hátrányai, túl sok játék függõséget okoz, valamint a túlzásba vitt játék aggresszióhoz, néha depresszióhoz vezethet.
+	Pszichológusok, kivált gyermekpszichológusok nagyon is konkrétan tudnak arról beszélni, milyen hatással lehet az ifjakra a túl korán elkezdett és túlzásba
+vitt videójátékozás, és melyek a veszélyes, illetve veszélytelen játékok.
+	A fiatalok, akik többségükben 7-8 évesen már játszanak videójátékon, az iskolában nem tudnak koncentrálni, romlik a teljesítésük, videójátékként kezelik a
+valóságot, valamint a fiatalok több, mint 65%-a játszik videójátékon, amibõl csaknem 37%-uk már függõként napi szinten akár több órát tölt el a számítógép elõtt.
+A statégiai, ügyességi játékok mellett megjelentek a lövöldözõs, erõszakos játékok, melyek rossz hatással van a fiatalok körében, mivel kihat rájuk a valóságban. 
+	A modern világ próbálja kizárni az oktató célú, ügyességi mini játékokat. Játék fejlesztõk többsége is próbálja a játékokból kihagyni az ügyességi, valamint
+vetélkedõs, logikai részeket. A mi projektünkben szeretnénk egy játékot fejleszteni a fiatalok számára, mely fejlesztené a képességeiket, ezen felül ügyességeik-és
+memóriájuk is fejlõdne a játék által.
 
 2. Jelenlegi helyzet leírása:(üzleti környezet)
 
-	Korábban elterjedt volt az olyan játékok, melyek az agy fejlesztésére fókuszálnak, különféle képességeket fejlesztenek akár egyszerre több fiatalnak is, azonban a kortárs*3 világunkban
-ezek a játékok avataggá*4 váltak. A korábbi ügyességi játékok elterjedése eleinte pozitív hatással volt a fiatalok körében, megjelenésük után nagy bevételre tettek szert a fejlesztõk.
-(ld*1. pixworld*5) Korábbi logikai játékok (fõleg a mobil applikációs szoftverek) sikeressége azon múlt, hogy ötletes és egyedi játékok voltak. -pl.*2 PixWorld: 10 M+*3 letöltés,
-Cut The Rope: 100M+ letöltés- 
-	Azonban hibái voltak ezeknek a különféle programoknak, minimális tesztelésük hatására kerültek olyan slamasztikák*6 a programba, melyek idõ hatására elveszítette klienseit*2. Napjainkban
-gyakoriak azok a szoftverek, melyeket nem tesztelnek kellõ képpen és/-vagy a tesztelés*3 nem alkalmazzák minden fázisát. A tesztelési fázisok kimaradása végett adódhatnak olyan problémák, hogy
-a kliens nem tudja elvégezni az adott megbízást*4, ezáltal a szolgáltatónak számításba kell venni, hogy az adott fogyasztó elveti*7 a fejlesztõ vállalat szolgáltatását.(ld. AA, PixWorld)
-	A logikai, illetve ügyességi fejtörõ játékoknál gyakori esetek, ha a kliens nem tudja teljesíteni, vagy megoldani az adott megbízást/-feladatot, akkor az ügyfél egy hasonló
-szoftvert keresve visszautasítja a régebbi vállalat termékét. Mivel gyakori esetekrõl van szó, számtalan klón*5 szoftvereket gyártottak, melyben az elõzõ hibát kijavítva egy jobb és hatékonyabb
-termékkel álltak elõ.(pl. AA-BB, CC; PixWorld- SliceWorld, PicWorld) A klón szoftvereknek is van hátrányuk, hiszen az egyik problémát kijavítva számos hibát lehet felfedezni egyes alkalmazásokban.
-A modern világban ezeknek a javított ügyességi és fejtörõs játékoknak száma megsokszorozódott, mely annak köszönhetõ, hogy külön vállalatok egy klón szoftverrel, melyben hibát javítanak, egy az
-eredetinél jobbat alkothassanak. Sok esetben ezek a szoftverek már nem a fiatalságot(7-18 év) helyezi elõtérbe, hanem az egymás közötti rivalizálást*8. A fiatalabb korcsoportnak szüksége van egy
+	Korábban elterjedt volt az olyan játékok, melyek az agy fejlesztésére fókuszálnak, különféle képességeket fejlesztenek akár egyszerre több fiatalnak is,
+azonban a kortárs*3 világunkban ezek a játékok avataggá*4 váltak. A korábbi ügyességi játékok elterjedése eleinte pozitív hatással volt a fiatalok körében,
+megjelenésük után nagy bevételre tettek szert a fejlesztõk. (ld*1. pixworld*5) Korábbi logikai játékok (fõleg a mobil applikációs szoftverek) sikeressége azon múlt,
+hogy ötletes és egyedi játékok voltak. -pl.*2 PixWorld: 10 M+*3 letöltés, Cut The Rope: 100M+ letöltés- 
+	Azonban hibái voltak ezeknek a különféle programoknak, minimális tesztelésük hatására kerültek olyan slamasztikák*6 a programba, melyek idõ hatására
+elveszítette klienseit*2. Napjainkban gyakoriak azok a szoftverek, melyeket nem tesztelnek kellõ képpen és/-vagy a tesztelés*3 nem alkalmazzák minden fázisát.
+A tesztelési fázisok kimaradása végett adódhatnak olyan problémák, hogy a kliens nem tudja elvégezni az adott megbízást*4, ezáltal a szolgáltatónak számításba kell
+venni, hogy az adott fogyasztó elveti*7 a fejlesztõ vállalat szolgáltatását.(ld. AA, PixWorld)
+	A logikai, illetve ügyességi fejtörõ játékoknál gyakori esetek, ha a kliens nem tudja teljesíteni, vagy megoldani az adott megbízást/-feladatot, akkor az
+ügyfél egy hasonló szoftvert keresve visszautasítja a régebbi vállalat termékét. Mivel gyakori esetekrõl van szó, számtalan klón*5 szoftvereket gyártottak, melyben
+az elõzõ hibát kijavítva egy jobb és hatékonyabb termékkel álltak elõ.(pl. AA-BB, CC; PixWorld- SliceWorld, PicWorld) A klón szoftvereknek is van hátrányuk, hiszen
+az egyik problémát kijavítva számos hibát lehet felfedezni egyes alkalmazásokban. A modern világban ezeknek a javított ügyességi és fejtörõs játékoknak száma
+megsokszorozódott, mely annak köszönhetõ, hogy külön vállalatok egy klón szoftverrel, melyben hibát javítanak, egy az eredetinél jobbat alkothassanak. Sok esetben
+ezek a szoftverek már nem a fiatalságot(7-18 év) helyezi elõtérbe, hanem az egymás közötti rivalizálást*8. A fiatalabb korcsoportnak szüksége van egy
 olyan programra, mely hasonló a megszokott ügyességi-logikai játékra, mégis eltér a különféle képesség fejlesztés és tanulás szempontjából.
 
 
@@ -79,6 +82,44 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
 	-A PixWorld nevû mobilos applikáció kiváló ötletet nyújt a szoftver számára, melyet a 10M+ letöltése is tükröz.
 
 
+  Fontos a lokális helyesség:  - Teljesség
+                               - Ellentmondás-mentesség
+                               - Szigorú specifikációs nyelv
+                               – Ellenõrzött tervezési minták használata
+                               – Specifikáció ellenõrzése/verifikáció/
+
+ Legyen megvalósítható, ehhez fontos: -erõforrások,
+                                       -használhatóság
+                                       -karbantarthatóság
+                                       és figyelembe kell venni a -költségbeli-
+                                                                  -technikai-
+                                                                  -környezeti-
+                                                                  kockázatokat is.
+ Szükséges, hogy megbízható legyen:   – Védelem a szisztematikus hibák ellen
+                                      – Az összes technikai és irányítási tevékenység meghatározása,
+                                        figyelése, ellenõrzése
+                                      - Szoftverek ellenõrzése, fejlesztési eszközök megfelelõsége
+                                      - Probléma bejelentés és javítás rögzítése:   – Dokumentáció és visszajelzések
+                                                                                    – Elemzések/okok azonosítása
+                                                                                    – Felderítés és megoldás módszerei, megelõzõ
+                                                                                      tevékenységek
+                                                                                    – Javítás ellenõrzése, ismételt igazolás
+                                                                                      és érvényesítés
+
+ Szintén nagyon fontos, hogy legyenek támogatók és olyan személyek, akik karbantartják a rendszert.
+
+ Könnyen ellenõrizhetõ/tesztelhetõ legyen: – specifikus, egyértelmû, számszerûsíthetõ
+
+ Tegyen eleget a nemfunkcionális követelményeknek:  -megbízhatóság
+                                                    -válaszidõ
+                                                    -tárfoglalás
+                                                    -rugalmasság
+                                                    -robosztusság
+                                                    -hordozhatóság
+                                                    
+- Könnyen és ingyenesen letölthetõ legyen
+
+
 5. Jelenlegi üzleti folyamatok modellje:
 
 
@@ -93,9 +134,10 @@ beruházni, több állatokkal, valamint nehezebb megbízásokkal.
 
 6. Igényelt üzleti folyamatok modellje:(vágyálom rendszerben leírt dolgokat modellezzük)
 
-	3.sz. melléklet: Amint a 3. számú mellékleten látható, az üzleti folyamat célja, hogy a fiatalok körében tudjanak egyes állatfajokról képet alkotni, megtudják nevezni a 	
+	*3.sz. melléklet: Amint a 3. számú mellékleten látható, az üzleti folyamat célja, hogy a fiatalok körében tudjanak egyes állatfajokról képet alkotni, megtudják nevezni a 	
 bel-és külföldi állatokat, ezt a célt szolgálja majd az AnimalWorld nevû szoftver. A program hitelessége és megbízhatósága hatására a felhasználók mûvelõdés elmélete fokozódik	
 mely pozitív élmények esetén több kliens fogja a játék által nyújtott szolgáltatást igénybe venni.
+
 	Vázlat az üzleti folyamatok modelljérõl:
 	- A kliensek eszközeiken eltudják érni lokális módon a szoftvert, melyben mûvelni, illetve fejleszteni tudják agyukat
 	- A szoftver állatokról készült illusztrációkat fog tartalmazni hagyományos textúrákkal és panellel, melyben az illusztrációk hitelesek, valamint megbízható forrásokból
@@ -109,7 +151,7 @@ megismerkedhetett a megbízás által kiadott állatokkal.
 	Modul		ID		Név		Verzió		Leírás
 
 	Játékmotor	F1		AnimalWorld	0.1		A 0.1-es verzió tartalmazni fogja az állatokról készült listát, mely az IntelliJ IDEA által támogatott
-									Java programozási nyelven készül, valamint egy szöveges dobozt, melyben a kliens a megbízást
+									Javafx programozási nyelven készül, valamint egy szöveges dobozt, melyben a kliens a megbízást
 									tudja teljesíteni.
 
 	Játékmotor	F2		AnimalWorld	0.2		A lista tartalmazni fog 10 darab állatról készült illusztrációt, mely a panel közepén megjelenõ

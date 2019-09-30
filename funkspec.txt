@@ -1,23 +1,5 @@
 Funkcionális specifikáció:
-
-1. Jelenlegi helyzet:(melyik rendszert miért nem szeretnénk, mit miért teszünk)
-
-
-2. minden átjön, csak kiegészítve szakmai követemlényekkel, részletesebb leírásokkal.
-
-
-3.használati esetek:(mire tudja használni a gyerek, felnõtt, kisgyerek, stb..., funkcionális esetek)
-
-
-4.Képernyõ tervek:
-
-
-5.Forgatókönyvek:(rokon a használati esetekkel)
-
-
-6.Funkció/követelmény megfeleltetés:(milyen követelményeknek felelünk meg, mi az amiben csak részben, stb...)
-
-példa:///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Áttekintés
 
@@ -81,7 +63,7 @@ eszközökkel tárul majd eléjük, mellyel élvezetesebbé válik a szolgáltatás.
 	- Teljesítmény: a rendszer nem lesz nagy tárhely, illetve memória igényû, ennek okai az egyszerûsített játékmenet, valamint a kliensek
 eltérõ eszközeik specifikációja. Teljesítmény szempontjából alacsony rangot kap, mely nem fogja elérni az 1GB tárhelyet, valamint az elegendõ RAM*2 csupán
 500-1000MB lesz.
-	- Megbízhatóság: Csoportunk kifejezetten ügyelnek rá, hogy a kliens biztonságban érezhesse magát a szoftver által kibocsátott szolgáltatás igénybevételekor
+	- Megbízhatóság: Csoportunk kifejezetten ügyel rá, hogy a kliens biztonságban érezhesse magát a szoftver által kibocsátott szolgáltatás igénybevételével,
 ezért semmiféle személyes adatok nem lesznek tárolva a célközönségrõl. Mivel a kliens biztonsága az igénybevett szolgáltatással 100%-os, így a késõbbiekben
 nem lesznek felhasználható adatok róla.
 	
@@ -89,10 +71,11 @@ nem lesznek felhasználható adatok róla.
 
 // Interfészek
 
-	A rendszerben illusztrációk lesznek az állatokról, melyek egy külsõ kpcsolatból, forrásokból lesznek importálva. A program külsõ kapcsolata tehát a 
-következõ forrásokból származik:
+	A rendszerben illusztrációk lesznek az állatokról, melyek egy külsõ kapcsolatból, forrásokból lesznek importálva. A program külsõ kapcsolata tehát a 
+következõ forrásokból származhat:
 	- Wikipédia A Szabad Enciklopédia
 	- Google képek
+
 A program nem fog tartalmazni a külsõ kapcsolatokat biztosító interfészeket, mivel az állatokról készült illusztrációk a programba lesz beépítve, nem kell majd
 hálózati adatkapcsolat a forások eléréséhez.
 
@@ -120,6 +103,7 @@ melynek okai a védelem, illetve a szoftver vírus és egyéb kártevõk elleni bizton
 	- A szoftver egy oldalon lesz futtatva, mely elrendezés szempontjából egy hagyományos módszeren alapul. A képernyõ közepén lesz az állatokról készült
 illusztrációk, melyek kitalálása után változni fognak.
 	- A menü bal felsõ sarkában lesz a szolgáltatást megszakító, illetve késõbb igénybe vevõ gomb, mely a "kilépés" elnevezést fogja kapni.
+
 
 fogalomtár:
 	-*1 IntelliJ IDEA: egy Java IDE a JetBrains-tõl, elérhetõ Apache 2 Licenccel közösségi kiadásban és kereskedelmi kiadásban is.

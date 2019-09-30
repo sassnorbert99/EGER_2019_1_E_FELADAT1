@@ -1,15 +1,3 @@
-Rendszerterv:
-	
-	projekt terv(definiálni a projekt szerepköreit, Ki miért felelõs, résztvevõk, ütemterv-mérföldkövek)
-	üzleti folyamatok modellje(kövspecben igényelt dolgok, saját ötleteinkkel, leírva úgy, hogy a mi rendszerünk eltudja készíteni, megszorítások alkalmazása)
-	[követelmények]
-	funkcionális leírás(szereplõk, használati esetek, menü, képernyõ)
-
-
-
-
-
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Rendszerterv:
 
@@ -25,24 +13,40 @@ szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, 
 2. Projekt Terv:
 
 	Projekt szerepkörei:
-	- Csoport tagok: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint,Járomi Dávid
+	- Csoport tagok: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint,Járomi Dávid Antal
 	- Projekt vezetõ: Sass-Gyarmati Norbert
-	- Fejlesztõk: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint, Járomi Dávid
+	- Fejlesztõk: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint, Járomi Dávid Antal
 	- Vezetõ fejlesztõ: Deák Ádám, Nagy Bálint
-	- Forrás adminisztrátor: Járomi Dávid, Sass-Gyarmati Norbert
-	- Teszter: Járomi Dávid, Deák Ádám
+	- Forrás adminisztrátor: Járomi Dávid Antal, Sass-Gyarmati Norbert
+	- Teszter: Járomi Dávid Antal, Deák Ádám
 	- Követelmény specifikáció: Sass-Gyarmati Norbert
 	- Funkcionális specifikáció: Sass-Gyarmati Norbert, Deák Ádám
-	- Rendszerterv: Deák Ádám, Járomi Dávid, Sass-Gyarmati Norbert, Nagy Bálint
-	- Illusztráció: Járomi Dávid
+	- Rendszerterv: Deák Ádám, Járomi Dávid Antal, Sass-Gyarmati Norbert, Nagy Bálint
+	- Illusztráció: Járomi Dávid Antal
+	- Ütemterv: Az alkalmazásnak a hónap(2019.szeptember) végére kész kell lennie
 
 	
 
 3. Üzleti folyamatok modellje:
 
-4. funkcionális leírás:
+3.5 Követelmények:
 
-5. Fizikai környezetek:
+ 	Funkcionális követelmények:
+
+ 		-Menü: - válaszon nehézségi szintet(könnyû, közepes, nehéz)
+
+ 	Nemfunkcionális követelmények: 
+
+ 		-A programnak egyszerûnek kell lennie , ezért a teljesítménye nem lehet nagy , viszonylag olcsóbb hardvereken 
+ 		is szépen kell futnia és ezáltal a  megbízhatósága is nagyobb lesz mivel nincs túlterhelve a rendszer.
+
+	Törvényi elõírások, szabványok : 
+
+		-Az alkalmazásban nem jelenhetnek meg felnõtt tartalmak.
+		
+
+
+4. Fizikai környezetek:
 	- támogatott operációs rendszer: multiplatform
 	- támogatott eszközök: PC, laptop
 	- nem támogatott eszközök: mobileszközök(mobil, pda, tablet)
