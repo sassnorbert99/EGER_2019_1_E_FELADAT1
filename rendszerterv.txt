@@ -25,16 +25,16 @@ szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, 
 2. Projekt Terv:
 
 	Projekt szerepkörei:
-	- Csoport tagok: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint,Járomi Dávid
+	- Csoport tagok: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint,Járomi Dávid Antal
 	- Projekt vezetõ: Sass-Gyarmati Norbert
-	- Fejlesztõk: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint, Járomi Dávid
+	- Fejlesztõk: Deák Ádám, Sass-Gyarmati Norbert, Nagy Bálint, Járomi Dávid Antal
 	- Vezetõ fejlesztõ: Deák Ádám, Nagy Bálint
-	- Forrás adminisztrátor: Járomi Dávid, Sass-Gyarmati Norbert
-	- Teszter: Járomi Dávid, Deák Ádám
+	- Forrás adminisztrátor: Járomi Dávid Antal, Sass-Gyarmati Norbert
+	- Teszter: Járomi Dávid Antal, Deák Ádám
 	- Követelmény specifikáció: Sass-Gyarmati Norbert
 	- Funkcionális specifikáció: Sass-Gyarmati Norbert, Deák Ádám
-	- Rendszerterv: Deák Ádám, Járomi Dávid, Sass-Gyarmati Norbert, Nagy Bálint
-	- Illusztráció: Járomi Dávid
+	- Rendszerterv: Deák Ádám, Járomi Dávid Antal, Sass-Gyarmati Norbert, Nagy Bálint
+	- Illusztráció: Járomi Dávid Antal
 	- Ütemterv: Az alkalmazásnak a hónap(2019.szeptember) végére kész kell lennie
 
 	
