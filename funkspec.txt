@@ -17,4 +17,113 @@ Funkcionális specifikáció:
 
 6.Funkció/követelmény megfeleltetés:(milyen követelményeknek felelünk meg, mi az amiben csak részben, stb...)
 
+példa:///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Áttekintés
+
+	Célunk a csoporttal, hogy elsõsorban a fiatalok(7-14 év) számára egy olyan ügyességi, logikai játékot fejlesszünk, mely hasonló az eddig megszokott nagybevételû 
+(pl. PixWorld) játékokra,mégis eltér a fejlõdés és képesség fejlesztés szempontjából.
+	Az alkalmazás célja továbbá, hogy megismertessük a fiatal generációval a vidéki, vadon élõ bel-és külföldön élõ õshonos állatfajokat, melyeket a mindennapi 
+életben nem látunk.
+	A program fõ funkciója, hogy a kliensek a szoftver szolgáltatásait igénybe véve egy letisztult felület tárul eléjük, valamint a hagyományos és megszokott
+-PixWorld, PicWorld- szoftver egyedi ötletekkel, igényeknek megfelelõ eszközökkel tárul majd eléjük, mellyel élvezetesebbé válik a szolgáltatás.
+	A feladatok nehézségi szintekre lesznek felosztva, mely a leggyakoribb, leghétköznapibb állatoktól egészen az Európában nem õshonos állatokig fog tartalmazni.
+	A szoftver a kliens igényeit helyezi középpontba azáltal, hogy nehézségi szintet fog követni a rendszer, melyben elsõ szinteken a
+leggyakoribb, leghétköznapibb állatok, utolsó szinteken pedig az Európában nem õshonos egzotikus állatok lesznek feltüntetve.
+	Célközönsége tehát a fiatal generáció, melyek még nem ismerik az országukban, illetve más országokban élõ állatfajokat. A fiatalok
+körében fontos, hogy megismerjék az országban honos, illetve a Magyarországon tenyésztett állatokat, valamint az Európán kívüli állatfajokat.
+Ha arra törekedünk, hogy a modern informatikai világban fejlõdjenek a fiatalok, akkor ez a késõbbi életükre is kifog hatni. Jobban fognak majd
+teljesíteni iskolában, munkahelyen, illetve alkotni fognak egy pontosabb képet a világról, melyben felfedezik majd a videójátékon kívüli csodákat is.
+	
+
+// A rendszer funkciói
+
+	A funkciók kifejtése elõtt szót kell ejtenünk a platformról, operációs rendszer verziókról, valamint, hogy milyen eszközökre 
+tervezzük megvalósítani az alkalmazást. A szoftver az IntelliJ IDEA*1 által támogatott Java programozási nyelvvel készül. Ennek legfõbb oka, hogy a kliensek ne
+legyenek operációs rendszerhez kötve, dinamikusan bármelyik operációs rendszerrel rendelkezõ számítógépen, illetve hordozható számítógépen el tudják érni, ezzel
+fokozva a játékélményt és az elégedettséget. Sok felhasználó nem rendelkezik a Microsoft által kiadott Windows operációs rendszerrel, hanem más -lásd. Linux, Mac OS-
+operációs rendszer szolgáltatásait veszik igénybe, melynek több oka is adódhat. Célunk tehát, hogy ne legyen operációs rendszerhez kötött szoftver, hanem bárki
+hozzáférhessen és élvezze a szoftver által nyújtott szolgáltatásokat.
+	A megrendelõ pályázati elvárásai a következõk:
+	-Hagyományos módszereken alapuljon az ügyességi szoftver, mégis egyedi hatásokkal, környezettel rendelkezzen.
+	-A szoftver ne egy klón szoftver legyen, tehát más felépítésû legyen, mint az eddigi kiadott játékok
+	-A pályázati határidõ 2019 év 09 hónap 17 nap-tól 2019 év 10 hónap 01 napjáig lehetséges beadni
+	-A megbízó a hagyományos mobil applikációk helyett számítógépes -ide beleértve a hordozható számítógépeket(laptop, notebook)- szoftvert akar, külön kikötéssel, hogy semmilyen 
+mobil eszközzel ne lehessen használni a szolgáltatást
+	Az általános törvények a rendszerünkre is vonatkozik, mind a megrendelõ, mind a projekt vezetõ beleegyezik abba, hogy a pályázatban felsorolt pontokat betartja, továbbá mindkét fél
+tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját. 
+	A csoportunk ajánlásokkal kiegészítve, a megrendelõtõl engedélyt kér, hogy a projekt elemi részeit önállóan feldolgozhassák. Ajánlások a következõk:
+	-A fiatalok többsége szereti, ha egy szoftver kezelése egyszerû és letisztult kezelõfelületet biztosít a klienseknek.
+	-A PixWorld nevû mobilos applikáció kiváló ötletet nyújt a szoftver számára, melyet a 10M+ letöltése is tükröz.
+	A megrendelõ igényeit kielégítve a program nem mobilos applikáció lesz, hanem a pályázatban megfogalmazott 4. pont alapján csak számítógépen, illetve 
+hordozható számítógépes (ide beleértve: laptop, notebook, netbook) eszközökön lehet majd elérni.
+	Fukcióinak kifejtése a következõk lesznek:
+
+	Kliensoldal
+	- nincs operációs rendszerhez kötve
+	- csak számtógépes eszközökön érhetõ el.(mobilos eszközökön nem)
+	- nem lesznek adatbázisban tárolva az adatok, minden lokálisan lesz mentve, így a kliens csak a saját számítógépes eszközén veheti igénybe szolgáltatásainkat
+	- nem lesz szüksége a kliensnek bejelentkezésre, illetve a regisztrációra
+	- nem lesz szükség hálózati adatkapcsolatra, a program offline lesz elérhetõ
+	
+	Szerveroldal:
+	- A kliensnek nem lesz szüksége regisztrációra, illetve a szoftver szolgáltatását igénybe vétel elõtti bejelentkezéshez, így a központi szerver nem fogja
+tárolni a szolgáltatást igénybe vevõ kliensek személyes adatait.
+	- A program mentései lokálisan lesznek tárolva, ennek hatására nem lesz a kliensoldal közvetlen kapcsolatban a szerveroldallal.
+	- Ha a szerver további frissítéseket ad ki, akkor a kliensoldal újra igénybe kell vegye a játék által kiadott szolgáltatásokat.
+	
+
+// Nem funkcionális követelmények
+
+	- Használhatóság: a rendszer egyszerû felépítésû lesz, mely legfõképp a célközönség miatt lesz egy letisztult panel. A kliensek a szoftver
+szolgáltatásait igénybe véve egy letisztult felület tárul eléjük, valamint a hagyományos és megszokott szoftver egyedi ötletekkel, igényeknek megfelelõ 
+eszközökkel tárul majd eléjük, mellyel élvezetesebbé válik a szolgáltatás.
+	- Teljesítmény: a rendszer nem lesz nagy tárhely, illetve memória igényû, ennek okai az egyszerûsített játékmenet, valamint a kliensek
+eltérõ eszközeik specifikációja. Teljesítmény szempontjából alacsony rangot kap, mely nem fogja elérni az 1GB tárhelyet, valamint az elegendõ RAM*2 csupán
+500-1000MB lesz.
+	- Megbízhatóság: Csoportunk kifejezetten ügyelnek rá, hogy a kliens biztonságban érezhesse magát a szoftver által kibocsátott szolgáltatás igénybevételekor
+ezért semmiféle személyes adatok nem lesznek tárolva a célközönségrõl. Mivel a kliens biztonsága az igénybevett szolgáltatással 100%-os, így a késõbbiekben
+nem lesznek felhasználható adatok róla.
+	
+
+
+// Interfészek
+
+	A rendszerben illusztrációk lesznek az állatokról, melyek egy külsõ kpcsolatból, forrásokból lesznek importálva. A program külsõ kapcsolata tehát a 
+következõ forrásokból származik:
+	- Wikipédia A Szabad Enciklopédia
+	- Google képek
+A program nem fog tartalmazni a külsõ kapcsolatokat biztosító interfészeket, mivel az állatokról készült illusztrációk a programba lesz beépítve, nem kell majd
+hálózati adatkapcsolat a forások eléréséhez.
+
+Felhasználói interfész (GUI) terv – ahogy az alkalmazás „kinéz” majd (lehet vázlatos is, részben ez alapján készülnek majd a részletes képernyõtervek)
+
+	- kezdetben a felhasználó egy teljesen letisztult képernyõvel fog találkozni, mely hagyományos színeket és felépítést, felbontást fog tartalmazni
+	- bejelenkezési folyamatok kihagyásával közvetlen igénybe lehet venni a szerver szolgáltatásait.
+	- Ha a kliens a szolgáltatást meg akarja szakítani, esetleg késõbb igénybe venni, ehhez rendelkezni fog egy "kilépés" gomb, mely rákattintás után
+megszakítja, majd kilép a programból.
+	- A felhasználó a képernyõ közepén fogja az állatokról készült illusztrációkat látni, majd ez alapján kell a kép alatt kitalálnia az állatfaj nevét
+	- Amennyiben sikerül egy megbízást teljesíteni, dinamikusan jön a következõ megbízás nehézségi fokozatokat figyelembe véve.
+
+
+
+// Az alkalmazás mûködésének áttekintése
+Kliensoldal:
+	- mûködése egyszerû felépítésû, könnyen áttekinthetõ lesz, melyben a felhasználók csak kliens oldalon tudják igénybe venni a szolgáltatást.
+Szerveroldal:
+	- mûködése csak a fejlesztõk számára lesz nyilvános, illetve a fejlesztõk által bevont partnereknek is. A szoftver egy zárt forráskódú program lesz,
+melynek okai a védelem, illetve a szoftver vírus és egyéb kártevõk elleni biztonsága.
+
+
+// Dizájn terv
+
+	- A szoftver egy oldalon lesz futtatva, mely elrendezés szempontjából egy hagyományos módszeren alapul. A képernyõ közepén lesz az állatokról készült
+illusztrációk, melyek kitalálása után változni fognak.
+	- A menü bal felsõ sarkában lesz a szolgáltatást megszakító, illetve késõbb igénybe vevõ gomb, mely a "kilépés" elnevezést fogja kapni.
+
+fogalomtár:
+	-*1 IntelliJ IDEA: egy Java IDE a JetBrains-tõl, elérhetõ Apache 2 Licenccel közösségi kiadásban és kereskedelmi kiadásban is.
+Gyakran egyszerûen csak "IDEA"-ként vagy "IntelliJ"-ként hivatkoznak rá.
+	-*2 RAM: A RAM (az angol Random Access Memory rövidítéseként, tetszõleges hozzáférésû memória, közvetlen hozzáférésû memória, véletlen hozzáférésû memória,
+bár ez utóbbi helytelenül terjedt el). egy véletlen elérésû írható–olvasható adattároló eszköz.
 
