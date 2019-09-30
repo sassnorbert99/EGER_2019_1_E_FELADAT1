@@ -85,6 +85,14 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
                                – Ellenõrzött tervezési minták használata
                                – Specifikáció ellenõrzése/verifikáció/
 
+ Legyen megvalósítható, ehhez fontos: -erõforrások,
+                                       -használhatóság
+                                       -karbantarthatóság
+                                       és figyelembe kell venni a -költségbeli-
+                                                                  -technikai-
+                                                                  -környezeti-
+                                                                  kockázatokat is.
+
 
 5. Jelenlegi üzleti folyamatok modellje:
 
