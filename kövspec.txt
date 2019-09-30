@@ -101,7 +101,16 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
                                                                                     – Felderítés és megoldás módszerei, megelõzõ
                                                                                       tevékenységek
                                                                                     – Javítás ellenõrzése, ismételt igazolás
-                                                                                      és érvényesítés 
+                                                                                      és érvényesítés
+
+ Tegyen eleget a nemfunkcionális követelményeknek:  -megbízhatóság
+                                                    -válaszidõ
+                                                    -tárfoglalás
+                                                    -rugalmasság
+                                                    -robosztusság
+                                                    -hordozhatóság
+                                                    
+- Könnyen és ingyenesen letölthetõ legyen
 
 
 5. Jelenlegi üzleti folyamatok modellje:
