@@ -103,6 +103,10 @@ tudomásul veszi a megrendelõ által meghatározott leadási határidõpontját.
                                                                                     – Javítás ellenõrzése, ismételt igazolás
                                                                                       és érvényesítés
 
+ Szintén nagyon fontos, hogy legyenek támogatók és olyan személyek, akik karbantartják a rendszert.
+
+ Könnyen ellenõrizhetõ/tesztelhetõ legyen: – specifikus, egyértelmû, számszerûsíthetõ
+
  Tegyen eleget a nemfunkcionális követelményeknek:  -megbízhatóság
                                                     -válaszidõ
                                                     -tárfoglalás
