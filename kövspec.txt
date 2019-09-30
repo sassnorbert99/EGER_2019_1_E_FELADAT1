@@ -1,7 +1,7 @@
-Követelmény specifikáció
+											Követelmény specifikáció
 
 
-1. Bevezetés(Áttekintés, vezetõi összefoglaló):
+1. Bevezetés(vezetõi összefoglaló):
 
 	A mai modern világban nagyon elterjedt a videó játék a fiatalok körében. Többségük már 7-8 éves kortól kapják meg az elsõ videójátékot. A videójátékok mára sok fiatal életének részét
 képezik, naponta lépnek be a virtuális valóság különféle tereibe. Ennek lehet elõnye és hátránya is, utóbbi sokszor a kisgyerekek viselkedésén látszik meg. Elõnyként szolgál stratégiai játékoknál
@@ -42,7 +42,7 @@ olyan programra, mely hasonló a megszokott ügyességi-logikai játékra, mégis elté
 
 
 
-3.Vágyálom rendszer:(Célok, elképzelések, terjedelem)
+3.Vágyálom rendszer:
 
 	Célunk a csoporttal, hogy elsõsorban a fiatalok(7-14 év) számára egy olyan ügyességi, logikai játékot fejlesszünk, mely hasonló az eddig megszokott nagybevételû (pl. PixWorld) játékokra,
 mégis eltér a fejlõdés és képesség fejlesztés szempontjából. Magyarország fiatalságának túlnyomó része városban él, és statisztikák szerint minden 3. fiatal városban tervezi elkövetkezendõ éveit.
@@ -92,11 +92,43 @@ Az AnimalWorld nevû logikai, ügyességi szoftver az egyszerûsített kezelõfelület,
 beruházni, több állatokkal, valamint nehezebb megbízásokkal.
 
 6. Igényelt üzleti folyamatok modellje:(vágyálom rendszerben leírt dolgokat modellezzük)
-	
+
+	3.sz. melléklet: Amint a 3. számú mellékleten látható, az üzleti folyamat célja, hogy a fiatalok körében tudjanak egyes állatfajokról képet alkotni, megtudják nevezni a 	
+bel-és külföldi állatokat, ezt a célt szolgálja majd az AnimalWorld nevû szoftver. A program hitelessége és megbízhatósága hatására a felhasználók mûvelõdés elmélete fokozódik	
+mely pozitív élmények esetén több kliens fogja a játék által nyújtott szolgáltatást igénybe venni.
+	Vázlat az üzleti folyamatok modelljérõl:
+	- A kliensek eszközeiken eltudják érni lokális módon a szoftvert, melyben mûvelni, illetve fejleszteni tudják agyukat
+	- A szoftver állatokról készült illusztrációkat fog tartalmazni hagyományos textúrákkal és panellel, melyben az illusztrációk hitelesek, valamint megbízható forrásokból
+származik, ennek hatására a felhasználó minden megbízást megtud oldani, mellyel fejleszti saját képességeit.
+	- Amennyiben a mûvelõdési folyamat pozitív eredménnyel zárul, várhatóan több partner fogja igénybe venni a játék szolgáltatásait, negatív eredmény esetén pedig a kliens
+megismerkedhetett a megbízás által kiadott állatokkal.
 	
 
-7. Követelmény Lista:(szerepkörök kezdése, hova vannak leírva a követelmények)
+7. Követelmény Lista:
 
+	Modul		ID		Név		Verzió		Leírás
+
+	Játékmotor	F1		AnimalWorld	0.1		A 0.1-es verzió tartalmazni fogja az állatokról készült listát, mely az IntelliJ IDEA által támogatott
+									Java programozási nyelven készül, valamint egy szöveges dobozt, melyben a kliens a megbízást
+									tudja teljesíteni.
+
+	Játékmotor	F2		AnimalWorld	0.2		A lista tartalmazni fog 10 darab állatról készült illusztrációt, mely a panel közepén megjelenõ
+									ablakban tud megjelenni, így a felhasználó tudja teljesíteni a megbízásokat.
+
+	Design		F3		Háttér		0.3		A szoftver esztétikai tartalmakkal fog bõvülni, mely a megbízó igényeit figyelembe véve és azokat
+									kielégítve egyszerû, hagyományos módon készül.
+
+	Játékmotor	F4		Egyéb modulok	0.4		A program újabb modulokkal bõvül, melyben a felhasználó minden sikeres megbízás után pontot
+									kap, melybõl késõbb segítséget tud kérni.
+
+	Játékmotor	F5		funkció		0.5		A szoftver további funkciókkal bõvül, melyben a felhasználó egy kattintással megszakíthatja
+									a játék által kínált szolgáltatást.
+
+	Játékmotor	F6		AnimalWorld	0.6		A szoftver hibátlan mûködése után további állatokról készült illusztrációval bõvül a lista.
+
+	Tanúsítványok	F7		kiadás		1.0		A program a követelményeknek eleget téve tesztek alatt fog átesni, melyben a megbízó összes igényét
+									kielégítve a játék kiadásra kerül
+									 
 
 8. fogalomszótár:
 
