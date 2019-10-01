@@ -7,10 +7,10 @@ import javafx.scene.control.Label;
 import javafx.scene.control.RadioButton;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.GridPane;
 import javafx.scene.text.Font;
-
-import java.awt.*;
 
 
 public class Controller {
@@ -45,27 +45,14 @@ public class Controller {
     private GridPane gameOver;
 
     @FXML
+    protected void ansCheck(KeyEvent event) {
+        if(event.getCode() == KeyCode.ENTER)
+            check();
+    }
+    @FXML
     protected void valaszEll(ActionEvent event) {
-        check(index);
-        index++;
-        if (index < 11) {
-            String path = imagePath + "/animal" + Integer.toString(index + 1) + ".jpg";
-            Image animalImage = new Image(path);
-            animalImageView.setImage(animalImage);
-            ans1.setSelected(false);
-            ans2.setSelected(false);
-            ans3.setSelected(false);
+        check();
 
-            setAnswerTexts();
-
-        } else {
-            ok.setDisable(true);
-            game.setVisible(false);
-            gameOver.setVisible(true);
-            finalScore.setText("Helyes válaszok száma:\n" + Integer.toString(correct));
-            javafx.scene.text.Font font = new Font(100);
-            finalScore.setFont(font);
-        }
     }
 
     @FXML
@@ -152,18 +139,38 @@ public class Controller {
             "pingvin", "rozmár", "tatu", "viziló"};
 
 
-    private void check(int sorszam) {
+    private void check() {
         int givenAnswer = ans1.isSelected() ? 1 : ans2.isSelected() ? 2 : ans3.isSelected() ? 3 : 0;
         if (givenAnswer == 0) {
             index--;
             return;
         }
-        if (givenAnswer == answers[sorszam]) {
+        if (givenAnswer == answers[index]) {
             test.setText("Helyes Válasz!");
             correct++;
             score.setText(Integer.toString(correct));
         } else
             test.setText("Helytelen Válasz!");
+
+        index++;
+        if (index < 11) {
+            String path = imagePath + "/animal" + Integer.toString(index + 1) + ".jpg";
+            Image animalImage = new Image(path);
+            animalImageView.setImage(animalImage);
+            ans1.setSelected(false);
+            ans2.setSelected(false);
+            ans3.setSelected(false);
+
+            setAnswerTexts();
+
+        } else {
+            ok.setDisable(true);
+            game.setVisible(false);
+            gameOver.setVisible(true);
+            finalScore.setText("Helyes válaszok száma:\n" + Integer.toString(correct));
+            javafx.scene.text.Font font = new Font(100);
+            finalScore.setFont(font);
+        }
     }
 
 }
