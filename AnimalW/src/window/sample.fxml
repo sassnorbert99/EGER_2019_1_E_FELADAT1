@@ -20,17 +20,22 @@
     <GridPane fx:id="game" alignment="TOP_CENTER" hgap="10" vgap="10" visible="false">
 
         <ImageView fx:id="animalImageView" layoutX="0" layoutY="0" fitHeight="720" fitWidth="1280" GridPane.rowIndex="0"
-                   GridPane.columnIndex="0" GridPane.columnSpan="3"/>
+                   GridPane.columnIndex="0" GridPane.columnSpan="5"/>
 
         <fx:define>
             <ToggleGroup fx:id="valaszok"/>
         </fx:define>
 
-        <RadioButton fx:id="ans1" GridPane.rowIndex="1" GridPane.columnIndex="0" text="tehén" toggleGroup="$valaszok"/>
-        <RadioButton fx:id="ans2" GridPane.rowIndex="1" GridPane.columnIndex="1" text="ló" toggleGroup="$valaszok"/>
-        <RadioButton fx:id="ans3" GridPane.rowIndex="1" GridPane.columnIndex="2" text="kutya" toggleGroup="$valaszok"/>
+        <RadioButton fx:id="ans1" GridPane.rowIndex="1" GridPane.columnIndex="0" text=" " toggleGroup="$valaszok"/>
+        <RadioButton fx:id="ans2" GridPane.rowIndex="1" GridPane.columnIndex="1" text=" " toggleGroup="$valaszok"/>
+        <RadioButton fx:id="ans3" GridPane.rowIndex="1" GridPane.columnIndex="2" text=" " toggleGroup="$valaszok"/>
 
         <Button fx:id="ok" text="Ellenőriz" GridPane.rowIndex="2" onAction="#valaszEll"/>
         <Label fx:id="test" text="válaszolj" GridPane.rowIndex="3" GridPane.columnSpan="3" />
+        <Label fx:id="scoreLabel" text="Pont: " GridPane.rowIndex="3" GridPane.columnIndex="2"/>
+        <Label fx:id="score" text="0" GridPane.rowIndex="3" GridPane.columnIndex="3"/>
+    </GridPane>
+    <GridPane fx:id="gameOver" alignment="CENTER" hgap="10" vgap="10" visible="false">
+        <Label fx:id="finalScore"/>
     </GridPane>
 </GridPane>
